@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.transition { transition: .4s ease-out }
+.border-gray { border-color: #dfe1e5 !important }
+.bg-black { background: #18191a !important }
+.bg-dark { background: #242526 !important}
+.bg-lightdark { background: #242526 !important }
